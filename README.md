@@ -29,6 +29,6 @@ We can observe that clusters are quite packed together which indicate that there
 
 ![t-SNE](images/t-sne_scatterplot.png)
 
-You can find the relevant code in the ![notebook](EDA%20MNIST.ipynb) linked to the repo. Feel free to explore more and create new pull requests to update the methods and add to current data exploration because I'm probably too lazy to add to this xD. 
+You can find the relevant code in the [notebook](EDA%20MNIST.ipynb) linked to the repo. Feel free to explore more and create new pull requests to update the methods and add to current data exploration because I'm probably too lazy to add to this xD. 
 
 :kissing::musical_note::v:
